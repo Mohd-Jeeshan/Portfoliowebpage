@@ -1,0 +1,1 @@
+This is a responsive personal portfolio website built using HTML, CSS, and JavaScript (or insert your tech stack like React, Tailwind, etc.). The website showcases my professional profile, projects, skills, resume, and contact details in a clean and modern layout.
